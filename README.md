@@ -21,7 +21,7 @@ Currency Converter is a simple web application that allows users to convert betw
 
 ## Screenshot
 
-![img][./img/image.png]
+![img](./img/image.png)
 
 ## Demo
 
